@@ -12,7 +12,7 @@ Raw eye-tracking data for the study: "Decoding Time Perception in Virtual Realit
 See `data_dictionary.md` for detailed variable descriptions.
 
 ## License
-[CC BY 4.0 / your chosen license]
+CC BY 4.0
 
 ## Contact
 Jiseob Park (jpark@koreatech.ac.kr)
