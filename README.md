@@ -4,7 +4,7 @@ Raw eye-tracking data for the study: "Decoding Time Perception in Virtual Realit
 
 ## Citation
 
-Park, J., & Rhee, C. (2025). Decoding Time Perception in Virtual Reality: How Extreme Brightness and Eye Movements Shape Temporal Experience. *International Journal of Human-Computer Interaction*. [DOI to be added]
+Park, J., & Rhee, C. (2025). Decoding Time Perception in Virtual Reality: How Extreme Brightness and Eye Movements Shape Temporal Experience. *International Journal of Human-Computer Interaction*. [https://doi.org/10.1080/10447318.2025.2598115]
 
 ## Dataset Overview
 
